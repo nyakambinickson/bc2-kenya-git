@@ -1,3 +1,3 @@
 function hello(x){ 
-console.log("say hello");
+console.log("roksta is amazing!!");
 }
