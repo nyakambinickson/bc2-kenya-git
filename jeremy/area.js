@@ -1,3 +1,4 @@
 function area(x) {
-	area = Math.PI * Math.sqrt(x);  
+	console.log(Math.PI * Math.sqrt(x));  
 }
+area()
