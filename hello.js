@@ -1,5 +1,5 @@
 function hello() {
-  console.log("Hello Kenya");
+  console.log("Hello Nairobi");
 }
 
 function add(x, y) {
